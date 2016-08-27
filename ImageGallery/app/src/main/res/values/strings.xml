@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+    <string name="title_activity_image_picker">ImagePicker</string>
+</resources>
